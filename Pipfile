@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 requests = "*"
 qqwry-py3 = "*"
+ronglian-sms-sdk = "*"
 
 [dev-packages]
 
