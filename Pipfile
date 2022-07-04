@@ -7,6 +7,8 @@ name = "pypi"
 requests = "*"
 qqwry-py3 = "*"
 ronglian-sms-sdk = "*"
+qqlogintool = "*"
+django = "3.2.9"
 
 [dev-packages]
 
