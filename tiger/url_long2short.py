@@ -1,6 +1,7 @@
 """
 URL长链接转短链接
 https://www.mxnzp.com/doc/detail?id=26
+app_id和app_secret需要注册才能获取,是免费的
 """
 import base64
 import requests
@@ -11,8 +12,8 @@ def long2short(long_url, only_code=False):
     url = "https://www.mxnzp.com/api/shortlink/create"
     params = {
         "url": base64.urlsafe_b64encode(long_url.encode()),
-        "app_id": "lkxoyzovyhmcmshj",
-        "app_secret": "NnNWZFArcHRtdDdxMnJra0I0Z1dGZz09",
+        "app_id": "xlentmhmp0cjksqw",
+        "app_secret": "MTRlYmFrZ3M2LytydTU1Zk96Z0RJQT09",
     }
     try:
         res = requests.get(url, params=params)
