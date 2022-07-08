@@ -18,7 +18,7 @@ oauth = OAuthQQ(
     state="index.html",
 )
 login_url = oauth.get_qq_url()
-print(login_url)  # 将链接粘贴到浏览器请求，登陆成功之后，返回的链接就包含了code的值
+print(login_url)  # 将链接粘贴到浏览器请求,登陆成功之后,返回的链接就包含了code的值
 
 code = "88CA442E5A36478F664FABABC1AFCC42"
 if code:
