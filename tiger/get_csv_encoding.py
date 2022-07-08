@@ -20,7 +20,7 @@ def get_csv_encoding(
 if __name__ == "__main__":
     headers = ["学号", "姓名", "分数"]
     rows = [("202001", "张三", "98"), ("202002", "李四", "95"), ("202003", "王五", "92")]
-    file = "../resources/score.csv"
+    file = "../trash/score.csv"
     with open(file, "w", encoding="utf8", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(headers)
