@@ -15,7 +15,7 @@ def get_ip_location(ip_str, data_dir=".", refresh="%Y%m"):
     )
     if not os.path.isfile(data_file):
         updateQQwry(data_file)
-    # 加载dat数据，并查询IP的现实地址
+    # 加载dat数据,并查询IP的现实地址
     q = QQwry()
     q.load_file(data_file)
     result = q.lookup(ip_str)
