@@ -3,6 +3,8 @@
 使用Python的cryptography库进行AES文件加密
 pip install cryptography
 """
+import os
+import time
 from cryptography.fernet import Fernet
 
 # 生成一个密钥
@@ -28,13 +30,16 @@ def encrypt_file(file_name):
 
 
 # 解密文件
-def decrypt_file(file_name):
+def decrypt_file(file_name, hide=True):
     with open(file_name, "rb") as file:
         encrypted_data = file.read()
 
     decrypted_data = cipher_suite.decrypt(encrypted_data)
 
     _file_name = file_name.replace(".enc", "")
+    if hide:
+        suffix = _file_name.split(".")[-1]
+        _file_name = os.path.join("/tmp", f"tmp_{int(time.time()*1000)}.{suffix}")
     with open(_file_name, "wb") as file:
         file.write(decrypted_data)
 
