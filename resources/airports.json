@@ -1,0 +1,1598 @@
+{
+  "伊尔施机场": {
+    "city": "阿尔山",
+    "airport": "伊尔施机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-yie",
+    "airport_code": "yie"
+  },
+  "红旗渠机场": {
+    "city": "安阳",
+    "airport": "红旗渠机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hqq",
+    "airport_code": "hqq"
+  },
+  "雪都机场": {
+    "city": "阿勒泰",
+    "airport": "雪都机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-aat",
+    "airport_code": "aat"
+  },
+  "塔里木机场": {
+    "city": "阿拉尔",
+    "airport": "塔里木机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-acf",
+    "airport_code": "acf"
+  },
+  "阿拉善右旗机场": {
+    "city": "阿拉善右旗",
+    "airport": "阿拉善右旗机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-rht",
+    "airport_code": "rht"
+  },
+  "安康富强机场": {
+    "city": "安康",
+    "airport": "安康富强机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-aka",
+    "airport_code": "aka"
+  },
+  "红旗坡机场": {
+    "city": "阿克苏",
+    "airport": "红旗坡机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-aku",
+    "airport_code": "aku"
+  },
+  "腾鳌机场": {
+    "city": "鞍山",
+    "airport": "腾鳌机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-aog",
+    "airport_code": "aog"
+  },
+  "天柱山机场": {
+    "city": "安庆",
+    "airport": "天柱山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-aqg",
+    "airport_code": "aqg"
+  },
+  "黄果树机场": {
+    "city": "安顺",
+    "airport": "黄果树机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ava",
+    "airport_code": "ava"
+  },
+  "阿拉善左旗机场": {
+    "city": "阿拉善左旗",
+    "airport": "阿拉善左旗机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-axf",
+    "airport_code": "axf"
+  },
+  "安阳机场": {
+    "city": "安阳",
+    "airport": "安阳机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ayn",
+    "airport_code": "ayn"
+  },
+  "飞雄机场": {
+    "city": "毕节",
+    "airport": "飞雄机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-bfj",
+    "airport_code": "bfj"
+  },
+  "北海福成机场": {
+    "city": "北海",
+    "airport": "北海福成机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-bhy",
+    "airport_code": "bhy"
+  },
+  "博乐机场": {
+    "city": "博乐",
+    "airport": "博乐机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-bpl",
+    "airport_code": "bpl"
+  },
+  "保山机场": {
+    "city": "保山",
+    "airport": "保山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-bsd",
+    "airport_code": "bsd"
+  },
+  "恩阳机场": {
+    "city": "巴中",
+    "airport": "恩阳机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-bzx",
+    "airport_code": "bzx"
+  },
+  "大高通用机场": {
+    "city": "滨州",
+    "airport": "大高通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-cbz",
+    "airport_code": "cbz"
+  },
+  "喀纳斯机场": {
+    "city": "布尔津",
+    "airport": "喀纳斯机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kji",
+    "airport_code": "kji"
+  },
+  "长白山机场": {
+    "city": "白山",
+    "airport": "长白山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nbs",
+    "airport_code": "nbs"
+  },
+  "首都国际机场": {
+    "city": "北京",
+    "airport": "首都国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-pek",
+    "airport_code": "pek"
+  },
+  "大兴国际机场": {
+    "city": "北京",
+    "airport": "大兴国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-pkx",
+    "airport_code": "pkx"
+  },
+  "百色机场": {
+    "city": "百色",
+    "airport": "百色机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-aeb",
+    "airport_code": "aeb"
+  },
+  "天吉泰机场": {
+    "city": "巴彦淖尔",
+    "airport": "天吉泰机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-rlk",
+    "airport_code": "rlk"
+  },
+  "包头东河机场": {
+    "city": "包头",
+    "airport": "包头东河机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-bav",
+    "airport_code": "bav"
+  },
+  "天府国际机场": {
+    "city": "成都",
+    "airport": "天府国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tfu",
+    "airport_code": "tfu"
+  },
+  "桃花源机场": {
+    "city": "常德",
+    "airport": "桃花源机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-cgd",
+    "airport_code": "cgd"
+  },
+  "龙嘉国际机场": {
+    "city": "长春",
+    "airport": "龙嘉国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-cgq",
+    "airport_code": "cgq"
+  },
+  "朝阳机场": {
+    "city": "朝阳",
+    "airport": "朝阳机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-chg",
+    "airport_code": "chg"
+  },
+  "玉龙机场": {
+    "city": "赤峰",
+    "airport": "玉龙机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-cif",
+    "airport_code": "cif"
+  },
+  "长治机场": {
+    "city": "长治",
+    "airport": "长治机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-cih",
+    "airport_code": "cih"
+  },
+  "江北国际机场": {
+    "city": "重庆",
+    "airport": "江北国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ckg",
+    "airport_code": "ckg"
+  },
+  "黄花国际机场": {
+    "city": "长沙",
+    "airport": "黄花国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-csx",
+    "airport_code": "csx"
+  },
+  "双流国际机场": {
+    "city": "成都",
+    "airport": "双流国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ctu",
+    "airport_code": "ctu"
+  },
+  "嘉义机场": {
+    "city": "嘉义",
+    "airport": "嘉义机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-cyi",
+    "airport_code": "cyi"
+  },
+  "奔牛机场": {
+    "city": "常州",
+    "airport": "奔牛机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-czx",
+    "airport_code": "czx"
+  },
+  "郴州北湖机场": {
+    "city": "郴州",
+    "airport": "郴州北湖机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hcz",
+    "airport_code": "hcz"
+  },
+  "九华山机场": {
+    "city": "池州",
+    "airport": "九华山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-juh",
+    "airport_code": "juh"
+  },
+  "阿鲁科尔沁机场": {
+    "city": "赤峰",
+    "airport": "阿鲁科尔沁机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-aeq",
+    "airport_code": "aeq"
+  },
+  "云冈机场": {
+    "city": "大同",
+    "airport": "云冈机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dat",
+    "airport_code": "dat"
+  },
+  "河市机场": {
+    "city": "达州",
+    "airport": "河市机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dax",
+    "airport_code": "dax"
+  },
+  "亚丁机场": {
+    "city": "稻城",
+    "airport": "亚丁机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dcy",
+    "airport_code": "dcy"
+  },
+  "浪头机场": {
+    "city": "丹东",
+    "airport": "浪头机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ddg",
+    "airport_code": "ddg"
+  },
+  "香格里拉机场": {
+    "city": "迪庆",
+    "airport": "香格里拉机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dig",
+    "airport_code": "dig"
+  },
+  "周水子国际机场": {
+    "city": "大连",
+    "airport": "周水子国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dlc",
+    "airport_code": "dlc"
+  },
+  "凤仪机场": {
+    "city": "大理",
+    "airport": "凤仪机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dlu",
+    "airport_code": "dlu"
+  },
+  "敦煌机场": {
+    "city": "敦煌",
+    "airport": "敦煌机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dnh",
+    "airport_code": "dnh"
+  },
+  "胜利机场": {
+    "city": "东营",
+    "airport": "胜利机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-doy",
+    "airport_code": "doy"
+  },
+  "萨尔图机场": {
+    "city": "大庆",
+    "airport": "萨尔图机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dqa",
+    "airport_code": "dqa"
+  },
+  "金垭机场": {
+    "city": "达州",
+    "airport": "金垭机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dzh",
+    "airport_code": "dzh"
+  },
+  "东阳横店通用机场": {
+    "city": "东阳",
+    "airport": "东阳横店通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hew",
+    "airport_code": "hew"
+  },
+  "德令哈机场": {
+    "city": "德令哈",
+    "airport": "德令哈机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hxd",
+    "airport_code": "hxd"
+  },
+  "花湖机场": {
+    "city": "鄂州",
+    "airport": "花湖机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ehu",
+    "airport_code": "ehu"
+  },
+  "桃来机场": {
+    "city": "额济纳旗",
+    "airport": "桃来机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ejn",
+    "airport_code": "ejn"
+  },
+  "许家坪机场": {
+    "city": "恩施",
+    "airport": "许家坪机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-enh",
+    "airport_code": "enh"
+  },
+  "二连浩特赛乌素机场": {
+    "city": "二连浩特",
+    "airport": "二连浩特赛乌素机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-erl",
+    "airport_code": "erl"
+  },
+  "长乐国际机场": {
+    "city": "福州",
+    "airport": "长乐国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-foc",
+    "airport_code": "foc"
+  },
+  "西关机场": {
+    "city": "阜阳",
+    "airport": "西关机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-fug",
+    "airport_code": "fug"
+  },
+  "沙堤机场": {
+    "city": "佛山",
+    "airport": "沙堤机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-fuo",
+    "airport_code": "fuo"
+  },
+  "东极机场": {
+    "city": "抚远",
+    "airport": "东极机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-fyj",
+    "airport_code": "fyj"
+  },
+  "可可托海机场": {
+    "city": "富蕴",
+    "airport": "可可托海机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-fyn",
+    "airport_code": "fyn"
+  },
+  "白云国际机场": {
+    "city": "广州",
+    "airport": "白云国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-can",
+    "airport_code": "can"
+  },
+  "玛沁机场": {
+    "city": "果洛",
+    "airport": "玛沁机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-gmq",
+    "airport_code": "gmq"
+  },
+  "格尔木机场": {
+    "city": "格尔木",
+    "airport": "格尔木机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-goq",
+    "airport_code": "goq"
+  },
+  "盘龙机场": {
+    "city": "广元",
+    "airport": "盘龙机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-gys",
+    "airport_code": "gys"
+  },
+  "六盘山机场": {
+    "city": "固原",
+    "airport": "六盘山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-gyu",
+    "airport_code": "gyu"
+  },
+  "甘孜格萨尔机场": {
+    "city": "甘孜",
+    "airport": "甘孜格萨尔机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-gzg",
+    "airport_code": "gzg"
+  },
+  "黄金机场": {
+    "city": "赣州",
+    "airport": "黄金机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kow",
+    "airport_code": "kow"
+  },
+  "龙洞堡国际机场": {
+    "city": "贵阳",
+    "airport": "龙洞堡国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kwe",
+    "airport_code": "kwe"
+  },
+  "两江国际机场": {
+    "city": "桂林",
+    "airport": "两江国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kwl",
+    "airport_code": "kwl"
+  },
+  "屯溪国际机场": {
+    "city": "黄山",
+    "airport": "屯溪国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-txn",
+    "airport_code": "txn"
+  },
+  "德清莫干山通用机场": {
+    "city": "湖州",
+    "airport": "德清莫干山通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-deq",
+    "airport_code": "deq"
+  },
+  "宝格德机场": {
+    "city": "呼伦贝尔",
+    "airport": "宝格德机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xrq",
+    "airport_code": "xrq"
+  },
+  "美兰国际机场": {
+    "city": "海口",
+    "airport": "美兰国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hak",
+    "airport_code": "hak"
+  },
+  "金城江机场": {
+    "city": "河池",
+    "airport": "金城江机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hcj",
+    "airport_code": "hcj"
+  },
+  "邯郸机场": {
+    "city": "邯郸",
+    "airport": "邯郸机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hdg",
+    "airport_code": "hdg"
+  },
+  "黑河机场": {
+    "city": "黑河",
+    "airport": "黑河机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hek",
+    "airport_code": "hek"
+  },
+  "白塔国际机场": {
+    "city": "呼和浩特",
+    "airport": "白塔国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-het",
+    "airport_code": "het"
+  },
+  "新桥国际机场": {
+    "city": "合肥",
+    "airport": "新桥国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hfe",
+    "airport_code": "hfe"
+  },
+  "萧山国际机场": {
+    "city": "杭州",
+    "airport": "萧山国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hgh",
+    "airport_code": "hgh"
+  },
+  "涟水机场": {
+    "city": "淮安",
+    "airport": "涟水机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hia",
+    "airport_code": "hia"
+  },
+  "芷江机场": {
+    "city": "怀化",
+    "airport": "芷江机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hjj",
+    "airport_code": "hjj"
+  },
+  "香港国际机场": {
+    "city": "香港",
+    "airport": "香港国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hkg",
+    "airport_code": "hkg"
+  },
+  "海拉尔机场": {
+    "city": "海拉尔",
+    "airport": "海拉尔机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hld",
+    "airport_code": "hld"
+  },
+  "哈密机场": {
+    "city": "哈密",
+    "airport": "哈密机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hmi",
+    "airport_code": "hmi"
+  },
+  "南岳机场": {
+    "city": "衡阳",
+    "airport": "南岳机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hny",
+    "airport_code": "hny"
+  },
+  "太平国际机场": {
+    "city": "哈尔滨",
+    "airport": "太平国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hrb",
+    "airport_code": "hrb"
+  },
+  "昆冈机场": {
+    "city": "和田",
+    "airport": "昆冈机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-htn",
+    "airport_code": "htn"
+  },
+  "花莲机场": {
+    "city": "花莲",
+    "airport": "花莲机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hun",
+    "airport_code": "hun"
+  },
+  "平潭机场": {
+    "city": "惠州",
+    "airport": "平潭机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-huz",
+    "airport_code": "huz"
+  },
+  "菏泽牡丹机场": {
+    "city": "菏泽",
+    "airport": "菏泽牡丹机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hza",
+    "airport_code": "hza"
+  },
+  "城固机场": {
+    "city": "汉中",
+    "airport": "城固机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hzg",
+    "airport_code": "hzg"
+  },
+  "沙市机场": {
+    "city": "荆州",
+    "airport": "沙市机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-shs",
+    "airport_code": "shs"
+  },
+  "揭阳潮汕机场": {
+    "city": "揭阳",
+    "airport": "揭阳潮汕机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-swa",
+    "airport_code": "swa"
+  },
+  "遥墙国际机场": {
+    "city": "济南",
+    "airport": "遥墙国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tna",
+    "airport_code": "tna"
+  },
+  "千岛湖通用机场": {
+    "city": "建德",
+    "airport": "千岛湖通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jde",
+    "airport_code": "jde"
+  },
+  "景德镇机场": {
+    "city": "景德镇",
+    "airport": "景德镇机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jdz",
+    "airport_code": "jdz"
+  },
+  "大兴安岭鄂伦春机场": {
+    "city": "加格达奇",
+    "airport": "大兴安岭鄂伦春机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jgd",
+    "airport_code": "jgd"
+  },
+  "嘉峪关酒泉机场": {
+    "city": "嘉峪关",
+    "airport": "嘉峪关酒泉机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jgn",
+    "airport_code": "jgn"
+  },
+  "井冈山机场": {
+    "city": "井冈山",
+    "airport": "井冈山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jgs",
+    "airport_code": "jgs"
+  },
+  "金川机场": {
+    "city": "金昌",
+    "airport": "金川机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jic",
+    "airport_code": "jic"
+  },
+  "庐山机场": {
+    "city": "九江",
+    "airport": "庐山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jiu",
+    "airport_code": "jiu"
+  },
+  "东郊机场": {
+    "city": "佳木斯",
+    "airport": "东郊机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jmu",
+    "airport_code": "jmu"
+  },
+  "大安机场": {
+    "city": "济宁",
+    "airport": "大安机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jng",
+    "airport_code": "jng"
+  },
+  "锦州湾机场": {
+    "city": "锦州",
+    "airport": "锦州湾机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jnz",
+    "airport_code": "jnz"
+  },
+  "兴凯湖机场": {
+    "city": "鸡西",
+    "airport": "兴凯湖机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jxa",
+    "airport_code": "jxa"
+  },
+  "黄龙机场": {
+    "city": "九寨沟",
+    "airport": "黄龙机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jzh",
+    "airport_code": "jzh"
+  },
+  "龟兹机场": {
+    "city": "库车",
+    "airport": "龟兹机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kca",
+    "airport_code": "kca"
+  },
+  "康定机场": {
+    "city": "康定",
+    "airport": "康定机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kgt",
+    "airport_code": "kgt"
+  },
+  "高雄国际机场": {
+    "city": "高雄",
+    "airport": "高雄国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-khh",
+    "airport_code": "khh"
+  },
+  "喀什徕宁国际机场": {
+    "city": "喀什",
+    "airport": "喀什徕宁国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-khg",
+    "airport_code": "khg"
+  },
+  "黄平机场": {
+    "city": "凯里",
+    "airport": "黄平机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kjh",
+    "airport_code": "kjh"
+  },
+  "长水国际机场": {
+    "city": "昆明",
+    "airport": "长水国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kmg",
+    "airport_code": "kmg"
+  },
+  "尚义机场": {
+    "city": "金门",
+    "airport": "尚义机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-knh",
+    "airport_code": "knh"
+  },
+  "梨城机场": {
+    "city": "库尔勒",
+    "airport": "梨城机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-krl",
+    "airport_code": "krl"
+  },
+  "克拉玛依机场": {
+    "city": "克拉玛依",
+    "airport": "克拉玛依机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-kry",
+    "airport_code": "kry"
+  },
+  "黎平机场": {
+    "city": "黎平",
+    "airport": "黎平机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hzh",
+    "airport_code": "hzh"
+  },
+  "陇川广宋机场": {
+    "city": "陇川",
+    "airport": "陇川广宋机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lcs",
+    "airport_code": "lcs"
+  },
+  "冠豸山机场": {
+    "city": "龙岩",
+    "airport": "冠豸山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lcx",
+    "airport_code": "lcx"
+  },
+  "尧都机场": {
+    "city": "临汾",
+    "airport": "尧都机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lfq",
+    "airport_code": "lfq"
+  },
+  "中川机场": {
+    "city": "兰州",
+    "airport": "中川机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lhw",
+    "airport_code": "lhw"
+  },
+  "三义机场": {
+    "city": "丽江",
+    "airport": "三义机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ljg",
+    "airport_code": "ljg"
+  },
+  "荔波机场": {
+    "city": "荔波",
+    "airport": "荔波机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-llb",
+    "airport_code": "llb"
+  },
+  "吕梁机场": {
+    "city": "吕梁",
+    "airport": "吕梁机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-llv",
+    "airport_code": "llv"
+  },
+  "临沧机场": {
+    "city": "临沧",
+    "airport": "临沧机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lnj",
+    "airport_code": "lnj"
+  },
+  "月照机场": {
+    "city": "六盘水",
+    "airport": "月照机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lpf",
+    "airport_code": "lpf"
+  },
+  "贡嘎国际机场": {
+    "city": "拉萨",
+    "airport": "贡嘎国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lxa",
+    "airport_code": "lxa"
+  },
+  "北郊机场": {
+    "city": "洛阳",
+    "airport": "北郊机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lya",
+    "airport_code": "lya"
+  },
+  "花果山机场": {
+    "city": "连云港",
+    "airport": "花果山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lyg",
+    "airport_code": "lyg"
+  },
+  "临沂启阳机场": {
+    "city": "临沂",
+    "airport": "临沂启阳机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lyi",
+    "airport_code": "lyi"
+  },
+  "阆中古城机场": {
+    "city": "阆中",
+    "airport": "阆中古城机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lzg",
+    "airport_code": "lzg"
+  },
+  "白莲机场": {
+    "city": "柳州",
+    "airport": "白莲机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lzh",
+    "airport_code": "lzh"
+  },
+  "云龙机场": {
+    "city": "泸州",
+    "airport": "云龙机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lzo",
+    "airport_code": "lzo"
+  },
+  "海浪机场": {
+    "city": "牡丹江",
+    "airport": "海浪机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-mdg",
+    "airport_code": "mdg"
+  },
+  "马祖北竿机场": {
+    "city": "马祖",
+    "airport": "马祖北竿机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-mfk",
+    "airport_code": "mfk"
+  },
+  "澳门国际机场": {
+    "city": "澳门",
+    "airport": "澳门国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-mfm",
+    "airport_code": "mfm"
+  },
+  "南郊机场": {
+    "city": "绵阳",
+    "airport": "南郊机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-mig",
+    "airport_code": "mig"
+  },
+  "梅县机场": {
+    "city": "梅州",
+    "airport": "梅县机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-mxz",
+    "airport_code": "mxz"
+  },
+  "澎湖机场": {
+    "city": "马公",
+    "airport": "澎湖机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-mzg",
+    "airport_code": "mzg"
+  },
+  "满洲里西郊国际机场": {
+    "city": "满洲里",
+    "airport": "满洲里西郊国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nzh",
+    "airport_code": "nzh"
+  },
+  "漠河机场": {
+    "city": "漠河",
+    "airport": "漠河机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ohe",
+    "airport_code": "ohe"
+  },
+  "昌北国际机场": {
+    "city": "南昌",
+    "airport": "昌北国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-khn",
+    "airport_code": "khn"
+  },
+  "兰坪丰华通用机场": {
+    "city": "怒江",
+    "airport": "兰坪丰华通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lfh",
+    "airport_code": "lfh"
+  },
+  "马祖南竿机场": {
+    "city": "南竿",
+    "airport": "马祖南竿机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lzn",
+    "airport_code": "lzn"
+  },
+  "米林机场": {
+    "city": "林芝",
+    "airport": "米林机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lzy",
+    "airport_code": "lzy"
+  },
+  "高坪机场": {
+    "city": "南充",
+    "airport": "高坪机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nao",
+    "airport_code": "nao"
+  },
+  "栎社国际机场": {
+    "city": "宁波",
+    "airport": "栎社国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ngb",
+    "airport_code": "ngb"
+  },
+  "昆莎机场": {
+    "city": "阿里",
+    "airport": "昆莎机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ngq",
+    "airport_code": "ngq"
+  },
+  "嫩江墨尔根通用机场": {
+    "city": "嫩江",
+    "airport": "嫩江墨尔根通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-njj",
+    "airport_code": "njj"
+  },
+  "禄口国际机场": {
+    "city": "南京",
+    "airport": "禄口国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nkg",
+    "airport_code": "nkg"
+  },
+  "泸沽湖机场": {
+    "city": "宁蒗",
+    "airport": "泸沽湖机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nlh",
+    "airport_code": "nlh"
+  },
+  "吴圩国际机场": {
+    "city": "南宁",
+    "airport": "吴圩国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nng",
+    "airport_code": "nng"
+  },
+  "姜营机场": {
+    "city": "南阳",
+    "airport": "姜营机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nny",
+    "airport_code": "nny"
+  },
+  "兴东国际机场": {
+    "city": "南通",
+    "airport": "兴东国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ntg",
+    "airport_code": "ntg"
+  },
+  "伊金霍洛机场": {
+    "city": "鄂尔多斯",
+    "airport": "伊金霍洛机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dsn",
+    "airport_code": "dsn"
+  },
+  "乌审旗嘎鲁图通用机场": {
+    "city": "鄂尔多斯",
+    "airport": "乌审旗嘎鲁图通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wsq",
+    "airport_code": "wsq"
+  },
+  "乌兰通用机场": {
+    "city": "鄂托克旗",
+    "airport": "乌兰通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-oto",
+    "airport_code": "oto"
+  },
+  "思茅机场": {
+    "city": "普洱",
+    "airport": "思茅机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-sym",
+    "airport_code": "sym"
+  },
+  "保安营机场": {
+    "city": "攀枝花",
+    "airport": "保安营机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-pzi",
+    "airport_code": "pzi"
+  },
+  "邦达机场": {
+    "city": "昌都",
+    "airport": "邦达机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-bpx",
+    "airport_code": "bpx"
+  },
+  "青岛胶东国际机场": {
+    "city": "青岛",
+    "airport": "青岛胶东国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tao",
+    "airport_code": "tao"
+  },
+  "海北祁连机场": {
+    "city": "祁连",
+    "airport": "海北祁连机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hbq",
+    "airport_code": "hbq"
+  },
+  "且末机场": {
+    "city": "且末",
+    "airport": "且末机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-iqm",
+    "airport_code": "iqm"
+  },
+  "庆阳机场": {
+    "city": "庆阳",
+    "airport": "庆阳机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-iqn",
+    "airport_code": "iqn"
+  },
+  "武陵山机场": {
+    "city": "黔江",
+    "airport": "武陵山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jiq",
+    "airport_code": "jiq"
+  },
+  "泉州晋江国际机场": {
+    "city": "泉州",
+    "airport": "泉州晋江国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jjn",
+    "airport_code": "jjn"
+  },
+  "衢州机场": {
+    "city": "衢州",
+    "airport": "衢州机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-juz",
+    "airport_code": "juz"
+  },
+  "三家子机场": {
+    "city": "齐齐哈尔",
+    "airport": "三家子机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ndg",
+    "airport_code": "ndg"
+  },
+  "博鳌机场": {
+    "city": "琼海",
+    "airport": "博鳌机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-bar",
+    "airport_code": "bar"
+  },
+  "虹桥国际机场": {
+    "city": "上海",
+    "airport": "虹桥国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-sha",
+    "airport_code": "sha"
+  },
+  "花园机场": {
+    "city": "石河子",
+    "airport": "花园机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-shf",
+    "airport_code": "shf"
+  },
+  "桃仙国际机场": {
+    "city": "沈阳",
+    "airport": "桃仙国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-she",
+    "airport_code": "she"
+  },
+  "正定国际机场": {
+    "city": "石家庄",
+    "airport": "正定国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-sjw",
+    "airport_code": "sjw"
+  },
+  "三清山机场": {
+    "city": "上饶",
+    "airport": "三清山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-sqd",
+    "airport_code": "sqd"
+  },
+  "凤凰国际机场": {
+    "city": "三亚",
+    "airport": "凤凰国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-syx",
+    "airport_code": "syx"
+  },
+  "朔州滋润机场": {
+    "city": "朔州",
+    "airport": "朔州滋润机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-szh",
+    "airport_code": "szh"
+  },
+  "苏州城市航站楼": {
+    "city": "苏州",
+    "airport": "苏州城市航站楼",
+    "airport_url": "https://flights.ctrip.com/booking/airport-szo",
+    "airport_code": "szo"
+  },
+  "光福机场": {
+    "city": "苏州",
+    "airport": "光福机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-szv",
+    "airport_code": "szv"
+  },
+  "宝安国际机场": {
+    "city": "深圳",
+    "airport": "宝安国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-szx",
+    "airport_code": "szx"
+  },
+  "定日机场": {
+    "city": "日喀则",
+    "airport": "定日机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ddr",
+    "airport_code": "ddr"
+  },
+  "丹凤商镇通用机场": {
+    "city": "商洛",
+    "airport": "丹凤商镇通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dfa",
+    "airport_code": "dfa"
+  },
+  "红坪机场": {
+    "city": "神农架",
+    "airport": "红坪机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hpg",
+    "airport_code": "hpg"
+  },
+  "栾城通用机场": {
+    "city": "石家庄",
+    "airport": "栾城通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lct",
+    "airport_code": "lct"
+  },
+  "隆子机场": {
+    "city": "山南",
+    "airport": "隆子机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lgz",
+    "airport_code": "lgz"
+  },
+  "浦东国际机场": {
+    "city": "上海",
+    "airport": "浦东国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-pvg",
+    "airport_code": "pvg"
+  },
+  "和平机场": {
+    "city": "日喀则",
+    "airport": "和平机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-rkz",
+    "airport_code": "rkz"
+  },
+  "塔城千泉机场": {
+    "city": "塔城",
+    "airport": "塔城千泉机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tcg",
+    "airport_code": "tcg"
+  },
+  "驼峰机场": {
+    "city": "腾冲",
+    "airport": "驼峰机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tcz",
+    "airport_code": "tcz"
+  },
+  "凤凰机场": {
+    "city": "铜仁",
+    "airport": "凤凰机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ten",
+    "airport_code": "ten"
+  },
+  "通辽机场": {
+    "city": "通辽",
+    "airport": "通辽机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tgo",
+    "airport_code": "tgo"
+  },
+  "麦积山机场": {
+    "city": "天水",
+    "airport": "麦积山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-thq",
+    "airport_code": "thq"
+  },
+  "交河机场": {
+    "city": "吐鲁番",
+    "airport": "交河机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tlq",
+    "airport_code": "tlq"
+  },
+  "三源浦机场": {
+    "city": "通化",
+    "airport": "三源浦机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tnh",
+    "airport_code": "tnh"
+  },
+  "台南机场": {
+    "city": "台南",
+    "airport": "台南机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tnn",
+    "airport_code": "tnn"
+  },
+  "桃园机场": {
+    "city": "台北",
+    "airport": "桃园机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tpe",
+    "airport_code": "tpe"
+  },
+  "松山机场": {
+    "city": "台北",
+    "airport": "松山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tsa",
+    "airport_code": "tsa"
+  },
+  "滨海国际机场": {
+    "city": "天津",
+    "airport": "滨海国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tsn",
+    "airport_code": "tsn"
+  },
+  "台东机场": {
+    "city": "台东",
+    "airport": "台东机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ttt",
+    "airport_code": "ttt"
+  },
+  "三女河机场": {
+    "city": "唐山",
+    "airport": "三女河机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tvs",
+    "airport_code": "tvs"
+  },
+  "唐王城机场": {
+    "city": "图木舒克",
+    "airport": "唐王城机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-twc",
+    "airport_code": "twc"
+  },
+  "太原尧城通用机场": {
+    "city": "太原",
+    "airport": "太原尧城通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tyc",
+    "airport_code": "tyc"
+  },
+  "武宿国际机场": {
+    "city": "太原",
+    "airport": "武宿国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-tyn",
+    "airport_code": "tyn"
+  },
+  "红其拉甫机场": {
+    "city": "塔什库尔干",
+    "airport": "红其拉甫机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hql",
+    "airport_code": "hql"
+  },
+  "路桥机场": {
+    "city": "台州",
+    "airport": "路桥机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hyn",
+    "airport_code": "hyn"
+  },
+  "清泉岗机场": {
+    "city": "台中",
+    "airport": "清泉岗机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-rmq",
+    "airport_code": "rmq"
+  },
+  "地窝堡国际机场": {
+    "city": "乌鲁木齐",
+    "airport": "地窝堡国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-urc",
+    "airport_code": "urc"
+  },
+  "百口泉机场": {
+    "city": "乌尔禾",
+    "airport": "百口泉机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wrh",
+    "airport_code": "wrh"
+  },
+  "乌兰浩特机场": {
+    "city": "乌兰浩特",
+    "airport": "乌兰浩特机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hlh",
+    "airport_code": "hlh"
+  },
+  "重庆仙女山机场": {
+    "city": "武隆",
+    "airport": "重庆仙女山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-cqw",
+    "airport_code": "cqw"
+  },
+  "潍坊机场": {
+    "city": "潍坊",
+    "airport": "潍坊机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wef",
+    "airport_code": "wef"
+  },
+  "大水泊机场": {
+    "city": "威海",
+    "airport": "大水泊机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-weh",
+    "airport_code": "weh"
+  },
+  "芜湖宣州机场": {
+    "city": "芜湖",
+    "airport": "芜湖宣州机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wha",
+    "airport_code": "wha"
+  },
+  "文山砚山机场": {
+    "city": "文山",
+    "airport": "文山砚山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wnh",
+    "airport_code": "wnh"
+  },
+  "龙湾国际机场": {
+    "city": "温州",
+    "airport": "龙湾国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wnz",
+    "airport_code": "wnz"
+  },
+  "重庆巫山机场": {
+    "city": "巫山",
+    "airport": "重庆巫山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wsk",
+    "airport_code": "wsk"
+  },
+  "乌海机场": {
+    "city": "乌海",
+    "airport": "乌海机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wua",
+    "airport_code": "wua"
+  },
+  "天河国际机场": {
+    "city": "武汉",
+    "airport": "天河国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wuh",
+    "airport_code": "wuh"
+  },
+  "武夷山机场": {
+    "city": "武夷山",
+    "airport": "武夷山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wus",
+    "airport_code": "wus"
+  },
+  "苏南硕放国际机场": {
+    "city": "无锡",
+    "airport": "苏南硕放国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wux",
+    "airport_code": "wux"
+  },
+  "西江机场": {
+    "city": "梧州",
+    "airport": "西江机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wuz",
+    "airport_code": "wuz"
+  },
+  "五桥机场": {
+    "city": "万州",
+    "airport": "五桥机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wxn",
+    "airport_code": "wxn"
+  },
+  "边城机场": {
+    "city": "湘西土家族苗族自治州",
+    "airport": "边城机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dxj",
+    "airport_code": "dxj"
+  },
+  "五台山机场": {
+    "city": "忻州",
+    "airport": "五台山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-wut",
+    "airport_code": "wut"
+  },
+  "明港机场": {
+    "city": "信阳",
+    "airport": "明港机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xai",
+    "airport_code": "xai"
+  },
+  "刘集机场": {
+    "city": "襄阳",
+    "airport": "刘集机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xfn",
+    "airport_code": "xfn"
+  },
+  "青山机场": {
+    "city": "西昌",
+    "airport": "青山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xic",
+    "airport_code": "xic"
+  },
+  "锡林浩特机场": {
+    "city": "锡林浩特",
+    "airport": "锡林浩特机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xil",
+    "airport_code": "xil"
+  },
+  "咸阳国际机场": {
+    "city": "西安",
+    "airport": "咸阳国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xiy",
+    "airport_code": "xiy"
+  },
+  "高崎国际机场": {
+    "city": "厦门",
+    "airport": "高崎国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xmn",
+    "airport_code": "xmn"
+  },
+  "曹家堡机场": {
+    "city": "西宁",
+    "airport": "曹家堡机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xnn",
+    "airport_code": "xnn"
+  },
+  "观音机场": {
+    "city": "徐州",
+    "airport": "观音机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-xuz",
+    "airport_code": "xuz"
+  },
+  "甘南夏河机场": {
+    "city": "夏河",
+    "airport": "甘南夏河机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-gxh",
+    "airport_code": "gxh"
+  },
+  "嘎洒国际机场": {
+    "city": "西双版纳",
+    "airport": "嘎洒国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-jhg",
+    "airport_code": "jhg"
+  },
+  "那拉提机场": {
+    "city": "新源",
+    "airport": "那拉提机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nlt",
+    "airport_code": "nlt"
+  },
+  "兴义万峰林机场": {
+    "city": "兴义",
+    "airport": "兴义万峰林机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-acx",
+    "airport_code": "acx"
+  },
+  "榆阳机场": {
+    "city": "榆林",
+    "airport": "榆阳机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-uyn",
+    "airport_code": "uyn"
+  },
+  "南泥湾机场": {
+    "city": "延安",
+    "airport": "南泥湾机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-eny",
+    "airport_code": "eny"
+  },
+  "五粮液机场": {
+    "city": "宜宾",
+    "airport": "五粮液机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ybp",
+    "airport_code": "ybp"
+  },
+  "盐湖国际机场": {
+    "city": "运城",
+    "airport": "盐湖国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ycu",
+    "airport_code": "ycu"
+  },
+  "明月山机场": {
+    "city": "宜春",
+    "airport": "明月山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-yic",
+    "airport_code": "yic"
+  },
+  "三峡机场": {
+    "city": "宜昌",
+    "airport": "三峡机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-yih",
+    "airport_code": "yih"
+  },
+  "伊宁机场": {
+    "city": "伊宁",
+    "airport": "伊宁机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-yin",
+    "airport_code": "yin"
+  },
+  "义乌机场": {
+    "city": "义乌",
+    "airport": "义乌机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-yiw",
+    "airport_code": "yiw"
+  },
+  "玉林福绵机场": {
+    "city": "玉林",
+    "airport": "玉林福绵机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ylx",
+    "airport_code": "ylx"
+  },
+  "朝阳川机场": {
+    "city": "延吉",
+    "airport": "朝阳川机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ynj",
+    "airport_code": "ynj"
+  },
+  "蓬莱国际机场": {
+    "city": "烟台",
+    "airport": "蓬莱国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ynt",
+    "airport_code": "ynt"
+  },
+  "南洋机场": {
+    "city": "盐城",
+    "airport": "南洋机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-ynz",
+    "airport_code": "ynz"
+  },
+  "扬州泰州机场": {
+    "city": "扬州",
+    "airport": "扬州泰州机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-yty",
+    "airport_code": "yty"
+  },
+  "玉树巴塘机场": {
+    "city": "玉树",
+    "airport": "玉树巴塘机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-yus",
+    "airport_code": "yus"
+  },
+  "银川河东国际机场": {
+    "city": "银川",
+    "airport": "银川河东国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-inc",
+    "airport_code": "inc"
+  },
+  "林都机场": {
+    "city": "伊春",
+    "airport": "林都机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-lds",
+    "airport_code": "lds"
+  },
+  "零陵机场": {
+    "city": "永州",
+    "airport": "零陵机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-llf",
+    "airport_code": "llf"
+  },
+  "新郑国际机场": {
+    "city": "郑州",
+    "airport": "新郑国际机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-cgo",
+    "airport_code": "cgo"
+  },
+  "荷花机场": {
+    "city": "张家界",
+    "airport": "荷花机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-dyg",
+    "airport_code": "dyg"
+  },
+  "上街机场": {
+    "city": "郑州",
+    "airport": "上街机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hsj",
+    "airport_code": "hsj"
+  },
+  "普陀山机场": {
+    "city": "舟山",
+    "airport": "普陀山机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-hsn",
+    "airport_code": "hsn"
+  },
+  "甘州机场": {
+    "city": "张掖",
+    "airport": "甘州机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-yzy",
+    "airport_code": "yzy"
+  },
+  "昭通机场": {
+    "city": "昭通",
+    "airport": "昭通机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-zat",
+    "airport_code": "zat"
+  },
+  "天马机场": {
+    "city": "昭苏",
+    "airport": "天马机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-zfl",
+    "airport_code": "zfl"
+  },
+  "吴川机场": {
+    "city": "湛江",
+    "airport": "吴川机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-zha",
+    "airport_code": "zha"
+  },
+  "沙坡头机场": {
+    "city": "中卫",
+    "airport": "沙坡头机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-zhy",
+    "airport_code": "zhy"
+  },
+  "宁远机场": {
+    "city": "张家口",
+    "airport": "宁远机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-zqz",
+    "airport_code": "zqz"
+  },
+  "金湾机场": {
+    "city": "珠海",
+    "airport": "金湾机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-zuh",
+    "airport_code": "zuh"
+  },
+  "新舟机场": {
+    "city": "遵义",
+    "airport": "新舟机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-zyi",
+    "airport_code": "zyi"
+  },
+  "成吉思汗机场": {
+    "city": "扎兰屯",
+    "airport": "成吉思汗机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-nzl",
+    "airport_code": "nzl"
+  },
+  "镇江大路通用机场": {
+    "city": "镇江",
+    "airport": "镇江大路通用机场",
+    "airport_url": "https://flights.ctrip.com/booking/airport-azj",
+    "airport_code": "azj"
+  }
+}
