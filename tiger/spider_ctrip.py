@@ -46,25 +46,19 @@ def add_gps(airports_file=""):
     with open(airports_file, "r") as file:
         airports = json.load(file)
 
-    browser = create_browser()
+    browser = create_browser(is_proxy=False)
     url = "https://jingweidu.bmcx.com/"
     browser.get(url)
-    count = 5
     for i, k in enumerate(airports, start=1):
         if airports[k].get("lng", ""):
             continue
-        if count <= 0:
-            time.sleep(300)
-            count = 5
-        else:
-            count -= 1
         try:
             textbox = browser.find_element_by_xpath(page_elements.get("textbox"))
             textbox.clear()
             textbox.send_keys(k)
             button = browser.find_element_by_xpath(page_elements.get("button"))
             button.click()
-            time.sleep(10)
+            time.sleep(10)  # 建议debug模式控制爬去速度 避免限制
             lng_show = browser.find_element_by_xpath(page_elements.get("lng_show"))
             lng = lng_show.get_attribute("value")
             lat_show = browser.find_element_by_xpath(page_elements.get("lat_show"))

@@ -75,7 +75,7 @@ def get_driver():
     return driver
 
 
-def create_browser(tm_proxy=""):
+def create_browser(tm_proxy="", is_proxy=True):
     """
     创建browser
     index: 0 默认使用第一个代理
@@ -89,7 +89,8 @@ def create_browser(tm_proxy=""):
     prefs = {"profile.default_content_setting_values": {"notifications": 1}}
     options.add_experimental_option("prefs", prefs)
     options.add_argument("--ignore-certificate-errors")
-    options.add_argument(f"--proxy-server={tm_proxy}")
+    if is_proxy:
+        options.add_argument(f"--proxy-server={tm_proxy}")
 
     driver = get_driver()
     browser = webdriver.Chrome(driver, options=options)
