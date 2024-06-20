@@ -2,7 +2,7 @@ import os
 import json
 import time
 from selenium.common.exceptions import UnexpectedAlertPresentException
-from tiger.spider import base_dir, logger, create_browser
+from spider import base_dir, logger, create_browser
 
 # 页面节点
 page_elements = {
@@ -37,23 +37,27 @@ def get_airports(airports_file=""):
     logger.info(f"抓取完成，共{len(airports)}个机场")
 
 
-def add_gps(old_airports_file="", new_airports_file=""):
+def add_gps(airports_file=""):
     """经纬度查询，给机场加上gps信息"""
-    if not old_airports_file:
-        old_airports_file = os.path.join(base_dir, "resources", "airports.json")
-    if not new_airports_file:
-        new_airports_file = os.path.join(base_dir, "trash", "airports.json")
+    if not airports_file:
+        airports_file = os.path.join(base_dir, "trash", "airports.json")
 
     # 读取JSON文件的数据
-    with open(old_airports_file, "r") as file:
+    with open(airports_file, "r") as file:
         airports = json.load(file)
 
     browser = create_browser()
     url = "https://jingweidu.bmcx.com/"
     browser.get(url)
+    count = 5
     for i, k in enumerate(airports, start=1):
         if airports[k].get("lng", ""):
             continue
+        if count <= 0:
+            time.sleep(300)
+            count = 5
+        else:
+            count -= 1
         try:
             textbox = browser.find_element_by_xpath(page_elements.get("textbox"))
             textbox.clear()
@@ -70,18 +74,46 @@ def add_gps(old_airports_file="", new_airports_file=""):
             logger.info(f"{i}:{json.dumps(airports[k], ensure_ascii=False)}")
         except UnexpectedAlertPresentException as e:
             logger.warning(e)
-            time.sleep(660)
+            time.sleep(600)
             continue
         except Exception as e:
             logger.error(e)
         finally:
-            with open(new_airports_file, "w") as f:
+            with open(airports_file, "w") as f:
                 content = json.dumps(airports, ensure_ascii=False)
                 f.write(content)
     browser.quit()
     logger.info(f"抓取完成，共更新{len(airports)}个机场")
 
 
+def check_gps(airports_file=""):
+    """检查gps并删除脏数据"""
+    if not airports_file:
+        airports_file = os.path.join(base_dir, "trash", "airports.json")
+    # 读取JSON文件的数据
+    with open(airports_file, "r") as file:
+        airports = json.load(file)
+    lng_set = set()
+    lng_set.add("104.48060937499996")  # 默认的北京GPS
+    status = True
+    for i, k in enumerate(airports, start=1):
+        lng = airports[k].get("lng", "")
+        if not lng:
+            status = False
+            continue
+        if lng in lng_set:
+            status = False
+            airports[k].pop("lng")
+            airports[k].pop("lat")
+    with open(airports_file, "w") as f:
+        content = json.dumps(airports, ensure_ascii=False)
+        f.write(content)
+
+    return status
+
+
 if __name__ == "__main__":
     # get_airports()
-    add_gps()
+    # add_gps()
+    # check_gps()
+    pass
