@@ -94,6 +94,8 @@ def check_gps(airports_file=""):
         lng = airports[k].get("lng", "")
         if not lng:
             status = False
+            airports[k].pop("lng")
+            airports[k].pop("lat")
             continue
         if lng in lng_set:
             status = False
